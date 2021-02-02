@@ -192,7 +192,7 @@ marquee {
 }
 @media(max-width:1200px) {
     .verticalmenu {
-        width: 90%;
+        width: 80%;
         padding-right: 40px;
    
     }
