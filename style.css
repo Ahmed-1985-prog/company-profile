@@ -193,6 +193,7 @@ marquee {
 @media(max-width:1200px) {
     .verticalmenu {
         width: 90%;
+        padding-left: 40px;
    
     }
      .tab {
