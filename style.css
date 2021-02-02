@@ -5,7 +5,7 @@
     box-sizing: border-box;
     font-family: 'Fira Sans', sans-serif
 }
-@media(max-width:480px) {
+
 
 /*vertical */
 
@@ -125,7 +125,7 @@ h3 {
     line-height: 50px;
     border-radius: 50%;
 }
-}
+
 
 .tabs .tab-content>div {
     position: absolute;
@@ -189,4 +189,5 @@ marquee {
     color: chartreuse;
     background-color: rgb(92, 8, 8);
     margin-top: 20px;
+}
 }
