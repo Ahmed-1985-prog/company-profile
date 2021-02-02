@@ -190,7 +190,7 @@ marquee {
     background-color: rgb(92, 8, 8);
     margin-top: 20px;
 }
-@media(max-width:1200px) {
+@media(max-width:480px) {
     .verticalmenu {
         width: 90%;
         padding-left: 40px;
