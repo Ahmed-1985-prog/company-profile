@@ -190,14 +190,14 @@ marquee {
     background-color: rgb(92, 8, 8);
     margin-top: 20px;
 }
-@media(max-width:480px) {
+@media(max-width:1200px) {
     .verticalmenu {
         width: 90%;
         padding-right: 40px;
    
     }
      .tab {
-        width: 90%;
+        width: 80%;
     }
 }
 
