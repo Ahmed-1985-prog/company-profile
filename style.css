@@ -193,7 +193,7 @@ marquee {
 @media(max-width:620px) {
     .verticalmenu {
         width: 90%;
-        display: none;
+   
     }
 }
 
