@@ -5,7 +5,11 @@
     box-sizing: border-box;
     font-family: 'Fira Sans', sans-serif
 }
-
+@media screen and (max-width: 800px) {
+  .left, .main, .right {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+    
 
 /*vertical */
 
