@@ -5,11 +5,7 @@
     box-sizing: border-box;
     font-family: 'Fira Sans', sans-serif
 }
-@media screen and (max-width: 800px) {
-  .left, .main, .right {
-    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-  }
-} 
+@media(max-width:1200px) {
 
 /*vertical */
 
@@ -128,6 +124,7 @@ h3 {
     text-align: center;
     line-height: 50px;
     border-radius: 50%;
+}
 }
 
 .tabs .tab-content>div {
