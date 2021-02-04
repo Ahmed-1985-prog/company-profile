@@ -193,10 +193,10 @@ marquee {
 
 @media (min-width: 1400px) {
     .tabs {
-        width: 70%;
+        width: 100%;
         display: none;
         float: none;
-        height: 1200px;
+        height: 1400px;
         position: relative;
         padding: 5rem;
     }
